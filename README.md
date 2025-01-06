@@ -1,5 +1,5 @@
 ### Hi there, I'm Ahmed Akhiat  👋 
-- :school: I am a Junior Web Developer
+- :school: I am a Web Developer
 <br>
 - 🖥️  See my Linkedin at [MyLinkedin](https://www.linkedin.com/in/ahmed-akhiat/).
 <br>
